@@ -1,2 +1,4 @@
 Nama   : Ni Ketut Ayu Indra Cahyani
 NIM    : 2201010476
+Matkul : Cloud Computing
+Jam Kul: 19.50 Wita - 22.20 Wita
